@@ -152,7 +152,7 @@ dmypy.json
 *.wps
 
 ### Sample Files ###
-.sample
+sample/*
 
 ### Configuration ###
 *.ini
